@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_15", "lesson_15.vcxproj", "{41C563A8-7E30-3477-ADDD-3F78CADE1136}"
+	ProjectSection(ProjectDependencies) = postProject
+		{57D995F4-1D53-30E3-8131-7678C985D8C0} = {57D995F4-1D53-30E3-8131-7678C985D8C0}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libchapter3", "libchapter3.vcxproj", "{57D995F4-1D53-30E3-8131-7678C985D8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C563A8-7E30-3477-ADDD-3F78CADE1136}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41C563A8-7E30-3477-ADDD-3F78CADE1136}.Debug|Win32.Build.0 = Debug|Win32
+		{41C563A8-7E30-3477-ADDD-3F78CADE1136}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{41C563A8-7E30-3477-ADDD-3F78CADE1136}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{41C563A8-7E30-3477-ADDD-3F78CADE1136}.Release|Win32.ActiveCfg = Release|Win32
+		{41C563A8-7E30-3477-ADDD-3F78CADE1136}.Release|Win32.Build.0 = Release|Win32
+		{41C563A8-7E30-3477-ADDD-3F78CADE1136}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{41C563A8-7E30-3477-ADDD-3F78CADE1136}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+		{57D995F4-1D53-30E3-8131-7678C985D8C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{57D995F4-1D53-30E3-8131-7678C985D8C0}.Debug|Win32.Build.0 = Debug|Win32
+		{57D995F4-1D53-30E3-8131-7678C985D8C0}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{57D995F4-1D53-30E3-8131-7678C985D8C0}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{57D995F4-1D53-30E3-8131-7678C985D8C0}.Release|Win32.ActiveCfg = Release|Win32
+		{57D995F4-1D53-30E3-8131-7678C985D8C0}.Release|Win32.Build.0 = Release|Win32
+		{57D995F4-1D53-30E3-8131-7678C985D8C0}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{57D995F4-1D53-30E3-8131-7678C985D8C0}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

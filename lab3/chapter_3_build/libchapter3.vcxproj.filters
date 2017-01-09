@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\AbstractWindowClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\ArrayObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\BufferObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\FilesystemUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\FloatRect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Lights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\ProgramInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\ProgramUniform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\ShaderProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Texture2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\VertexAttribute.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\3rd_party\tinyxml2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\AbstractWindowClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\ArrayObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\BufferObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\FilesystemUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\FloatRect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Lights.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\ProgramInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\ProgramUniform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\ShaderProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Texture2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\VertexAttribute.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\src\libchapter3_private.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\3rd_party\tinyxml2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\libchapter3\libchapter3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\example\cg_course_examples-master\chapter_3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\cloud_earth.vert" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\cloud_earth_robust.vert" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\copytexture.vert" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\lambert-phong.vert" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\twist.vert" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\checkers-and-triangle.frag" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\checkers.frag" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\cloud_earth.frag" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\cloud_earth_robust.frag" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\copytexture.frag" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\lambert.frag" />
+    <None Include="I:\example\cg_course_examples-master\chapter_3\res\phong.frag" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F24C7262-FE1F-3603-8407-9F226A116783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4ED20889-A0F2-312E-9135-71EC588A12FD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\lesson_15\TwistValueController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\lesson_15\WindowClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\lesson_15\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\example\cg_course_examples-master\chapter_3\lesson_15\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\chapter_3\lesson_15\Paraboloid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\lesson_15\TwistValueController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\lesson_15\WindowClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\example\cg_course_examples-master\chapter_3\lesson_15\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\chapter_3\lesson_15\Paraboloid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\example\cg_course_examples-master\chapter_3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F24C7262-FE1F-3603-8407-9F226A116783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4ED20889-A0F2-312E-9135-71EC588A12FD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
