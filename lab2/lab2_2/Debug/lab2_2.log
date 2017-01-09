@@ -1,0 +1,9 @@
+﻿  Window.cpp
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+AbstractWindow.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы __imp__glewInit@0 т ЇєэъЎшш "public: void __thiscall <lambda_25f42b891291332c8f1adeb64fe6914e>::operator()(void)const " (??R<lambda_25f42b891291332c8f1adeb64fe6914e>@@QBEXXZ)
+main.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "__imp__glewInit@0"
+AbstractWindow.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "__imp__glewExperimental"
+I:\CG\cg_lab\lab2\Debug\lab2_2.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 2
