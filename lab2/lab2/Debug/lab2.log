@@ -2,7 +2,4 @@
   Скопировано файлов:         1.
   Скопировано файлов:         1.
   Скопировано файлов:         1.
-AbstractWindow.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glewInit@0 в функции "public: void __thiscall <lambda_25f42b891291332c8f1adeb64fe6914e>::operator()(void)const " (??R<lambda_25f42b891291332c8f1adeb64fe6914e>@@QBEXXZ)
-main.obj : error LNK2001: неразрешенный внешний символ "__imp__glewInit@0"
-AbstractWindow.obj : error LNK2001: неразрешенный внешний символ "__imp__glewExperimental"
-I:\CG\cg_lab\lab2\Debug\lab2.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
+  lab2.vcxproj -> I:\CG\cg_lab\lab2\Debug\lab2.exe

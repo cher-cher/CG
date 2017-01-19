@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Decorators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\IdentityCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\IdentitySphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Landscape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Lights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\MapTile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\MeshP3NT2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\CG\cg_course_examples\chapter_2\lesson_11\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Decorators.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\IdentityCube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\IdentitySphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Landscape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Lights.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\MapTile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\MeshP3NT2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\CG\cg_course_examples\chapter_2\lesson_11\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\CG\cg_course_examples\chapter_2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7C9371A2-030C-3509-B8A3-2B6722CC9704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9E792BB7-168D-3269-8421-537E283C8016}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

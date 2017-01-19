@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_11", "lesson_11.vcxproj", "{3E7742E1-EAD6-3818-8E03-370B62387899}"
+	ProjectSection(ProjectDependencies) = postProject
+		{99AE1752-9040-3049-965A-6D1D070A97C5} = {99AE1752-9040-3049-965A-6D1D070A97C5}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libchapter2", "libchapter2.vcxproj", "{99AE1752-9040-3049-965A-6D1D070A97C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7742E1-EAD6-3818-8E03-370B62387899}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E7742E1-EAD6-3818-8E03-370B62387899}.Debug|Win32.Build.0 = Debug|Win32
+		{3E7742E1-EAD6-3818-8E03-370B62387899}.Release|Win32.ActiveCfg = Release|Win32
+		{3E7742E1-EAD6-3818-8E03-370B62387899}.Release|Win32.Build.0 = Release|Win32
+		{99AE1752-9040-3049-965A-6D1D070A97C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99AE1752-9040-3049-965A-6D1D070A97C5}.Debug|Win32.Build.0 = Debug|Win32
+		{99AE1752-9040-3049-965A-6D1D070A97C5}.Release|Win32.ActiveCfg = Release|Win32
+		{99AE1752-9040-3049-965A-6D1D070A97C5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

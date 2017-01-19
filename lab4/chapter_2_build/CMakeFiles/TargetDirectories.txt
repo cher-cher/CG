@@ -1,0 +1,9 @@
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/lesson_11.dir
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/libchapter2.dir
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/lesson_10.dir
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/lesson_07.dir
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/lesson_08.dir
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/lesson_09.dir
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/lesson_12.dir
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/ALL_BUILD.dir
+I:/CG/cg_course_examples/chapter_2_build/CMakeFiles/ZERO_CHECK.dir

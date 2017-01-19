@@ -1,0 +1,1 @@
+@call "C:\Program Files (x86)\PVS-Studio\x64\PVS-Studio.exe" --cfg "I:\CG\cg_lab\lab4\chapter_2_build\Decorators.cpp.PVS-Studio.cfg"
