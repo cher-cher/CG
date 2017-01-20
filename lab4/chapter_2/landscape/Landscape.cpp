@@ -10,6 +10,7 @@ namespace
 
 	const char HIGHT_MAP_PATH[] = "res/galaxy/height.raw";
 	const size_t STEP_SIZE = 6;
+	const float SCALE_VALUE = 0.15f;
 }
 using namespace std;
 
@@ -35,7 +36,7 @@ bool CLandscape::LoadRawFile()
 	}
 	char depth;
 	size_t i = 0;
-	while (inputFile.get(depth))
+	while (inputFile.get(depth) && i != VERTEX_TILE_SIZE * VERTEX_TILE_SIZE)
 	{
 		m_heightMap[i++] = static_cast<BYTE>(depth);
 	}
@@ -45,9 +46,9 @@ bool CLandscape::LoadRawFile()
 	static const float HEIGHT_OFFSET = HEIGHT_SCALE / 2;
 	GLfloat heightMap[VERTEX_TILE_SIZE * VERTEX_TILE_SIZE];
 
-	for (size_t i = 0; i < sizeof(m_heightMap); i++)
+	for (size_t j = 0; j < sizeof(m_heightMap); j++)
 	{
-		heightMap[i] = m_heightMap[i] * HEIGHT_SCALE + HEIGHT_OFFSET;
+		heightMap[j] = m_heightMap[j] * HEIGHT_SCALE + HEIGHT_OFFSET;
 	}
 
 	m_map.Load(-VERTEX_TILE_SIZE * 3, -VERTEX_TILE_SIZE * 3, VERTEX_TILE_SIZE, VERTEX_TILE_SIZE, STEP_SIZE, &heightMap[0]);
@@ -55,7 +56,6 @@ bool CLandscape::LoadRawFile()
 	return true;
 }
 
-void CLandscape::Triangulate()
+CLandscape::~CLandscape() 
 {
-	
 }
